@@ -4,6 +4,5 @@
     <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Challenge 1/Patterns" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Challenge 1/ReversePyramid" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Learning-Java-Basic" vcs="Git" />
   </component>
 </project>

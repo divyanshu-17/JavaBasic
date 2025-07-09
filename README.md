@@ -31,7 +31,7 @@ A beginner-friendly repository to learn core Java programming concepts step-by-s
 
 ## 🎯 Goal
 
-To provide a structured path for beginners to confidently learn the fundamentals of Java, before diving into Object-Oriented Programming.
+To learn a structured path for beginners to confidently learn the fundamentals of Java, before diving into Object-Oriented Programming.
 
 ---
 

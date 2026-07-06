@@ -46,3 +46,5 @@ Code is organized by topic in separate folders/files to allow easy navigation an
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/divyanshu-ranjan-b23986271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or open an issue for feedback.
 
 ---
+
+Certificate: https://drive.google.com/file/d/19cJ3fUcW4-7Koub01tUIOtDwYBiKL6Jg/view?usp=sharing

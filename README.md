@@ -47,4 +47,4 @@ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/divyanshu-ranj
 
 ---
 
-Certificate: https://drive.google.com/file/d/19cJ3fUcW4-7Koub01tUIOtDwYBiKL6Jg/view?usp=sharing
+Certificate: [Goodle Drive]( https://drive.google.com/file/d/19cJ3fUcW4-7Koub01tUIOtDwYBiKL6Jg/view?)usp=sharing

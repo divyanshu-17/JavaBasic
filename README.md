@@ -24,7 +24,8 @@ A beginner-friendly repository to learn core Java programming concepts step-by-s
 - Loops (While Loop)  
 - Methods (Functions)  
 - Return Statement & Arguments  
-- Arrays & 2D Arrays  
+- Arrays & 2D Arrays
+- Collections
 - Practice Exercises & Challenges
 
 ---
